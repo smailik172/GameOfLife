@@ -1,0 +1,3 @@
+﻿  GameOfLife.cpp
+D:\Programming\CPP\GameOfLife\GameOfLife.cpp(244): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  GameOfLife.vcxproj -> D:\Programming\CPP\GameOfLife\Debug\GameOfLife.exe
